@@ -4,25 +4,17 @@ const Project = () => {
   const projectsData = [
     {
       name: `Treo Discord Bot`,
-      description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+      description: `Treo is a open source multipurpose discord bot with amazing features like moderation, utility, giveaway, fun, nsfw, ticket etc.`,
       image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
       link: `https://github.com/kabirsingh2004`,
     },
     {
       name: `Treo Website`,
-      description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+      description: `It is cool website of my bot TREO and it is built in next.js language.`,
       image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
       link: `https://github.com/kabirsingh2004`,
     },
-    {
-      name: `Discord Command Handler`,
-      description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
-      image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
-      link: `https://github.com/kabirsingh2004`,
-    },
+   
   ];
   return (
     <section id="project" className="bg-white py-20">
