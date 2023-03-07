@@ -35,8 +35,8 @@ const About = () => {
             About Me
           </h2>
           <p className="mt-4 text-xl text-gray-500 capitalize">
-            I am a full stack developer with experience building web
-            applications using a variety of technologies, including:
+            I am a web/javascript developer with experience building web
+            applications/discord bot using a variety of technologies, including:
           </p>
           <div className="mt-8 flex justify-center">
             <ul className="grid grid-cols-2 md:grid-cols-4 gap-6">
