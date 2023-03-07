@@ -6,7 +6,7 @@ const Project = () => {
       name: `Treo Discord Bot`,
       description: `Treo is a open source multipurpose discord bot with amazing features like moderation, utility, giveaway, fun, nsfw, ticket etc.`,
       image: `https://i.imgur.com/LIK2mMn.png`,
-      link: `https://github.com/kabirsingh2004`,
+      link: `https://github.com/devanshyadav2010/`,
     },
     {
       name: `Treo Website`,
