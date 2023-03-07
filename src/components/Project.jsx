@@ -3,21 +3,21 @@ import React from "react";
 const Project = () => {
   const projectsData = [
     {
-      name: `Kabir Jaipal - Developer`,
+      name: `Treo Discord Bot`,
       description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
       image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
       link: `https://github.com/kabirsingh2004`,
     },
     {
-      name: `Kabir Jaipal - Developer`,
+      name: `Treo Website`,
       description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
       image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
       link: `https://github.com/kabirsingh2004`,
     },
     {
-      name: `Kabir Jaipal - Developer`,
+      name: `Discord Command Handler`,
       description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
       image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
