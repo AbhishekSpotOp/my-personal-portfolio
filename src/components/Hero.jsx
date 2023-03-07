@@ -6,10 +6,10 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-            Full Stack Developer
+            Devansh Yadav
           </h1>
           <p className="mt-5 text-xl text-gray-500 capitalize">
-            I build awesome web applications using the latest technologies.
+            I build awesome web applications/Discord Bots using the latest technologies.
           </p>
           <div className="mt-10">
             <a
