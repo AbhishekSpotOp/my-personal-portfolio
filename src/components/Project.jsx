@@ -5,14 +5,14 @@ const Project = () => {
     {
       name: `Treo Discord Bot`,
       description: `Treo is a open source multipurpose discord bot with amazing features like moderation, utility, giveaway, fun, nsfw, ticket etc.`,
-      image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
+      image: `https://i.imgur.com/LIK2mMn.png`,
       link: `https://github.com/kabirsingh2004`,
     },
     {
       name: `Treo Website`,
       description: `It is cool website of my bot TREO and it is built in next.js language.`,
-      image: `https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg`,
-      link: `https://github.com/kabirsingh2004`,
+      image: `https://i.imgur.com/LwpYd4N.png`,
+      link: `https://github.com/devanshyadav2010/treo-bot-website`,
     },
    
   ];
