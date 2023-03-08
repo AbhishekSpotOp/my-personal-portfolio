@@ -39,7 +39,7 @@ const About = () => {
             applications/discord bot using a variety of technologies, including:
           </p>
           <div className="mt-8 flex justify-center">
-            <ul className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <ul className="grid grid-cols-2 md:grid-cols-3 gap-6">
               {skillsData.map((skill, index) => (
                 <li
                   key={index}
