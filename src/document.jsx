@@ -1,60 +1,27 @@
-import Document, { Html, Head, Main, NextScript } from "next/document";
+import Head from 'next/head';
 
-class MyDocument extends Document {
+function document() {
+  return (
+    <div>
+      <Head>
+        {/* Open Graph Protocol (OGP) meta tags */}
+        <meta property="og:title" content="My Portfolio Web" />
+        <meta property="og:description" content="Check out my awesome portfolio web!" />
+        <meta property="og:image" content="https://example.com/my-portfolio-image.jpg" />
+        <meta property="og:url" content="https://example.com/my-portfolio-web" />
+        <meta property="og:type" content="website" />
 
-  render() {
-    return (
-      <Html>
-        <Head>
-          <link rel="apple-touch-icon" href="public/logo.jpg" />
-          <meta name="robots" content="index,follow" />
-          <meta name="googlebot" content="index,follow" />
-          <meta
-            name="description"
-            content="Devansh"
-          />
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@TreoDiscordBot" />
-          <meta name="twitter:creator" content="@TreoDiscordBot" />
-          <meta property="og:url" content="https://dev-ansh.tech" />
-          <meta property="og:type" content="website" />
-          <meta property="og:title" content="Devansh" />
-          <link
-            rel="icon"
-            href="public/logo.png"
-            type="image/x-icon"
-          />
-          <meta
-            property="og:description"
-            content="Devansh."
-          />
-          <meta property="og:image" content="public/logo.jpg" />
-          <meta property="og:image:alt" content="Treo" />
-          <meta property="og:locale" content="en_GB" />
-          <meta
-            property="og:site_name"
-            content="Devansh"
-          />
-          <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="public/logo.jpg" type="image/x-icon" />
-          <link
-            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
-            rel="stylesheet"
-          />
-          <link
-            href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css"
-            rel="stylesheet"
-          />
-          <link rel="stylesheet" href="/src/nprogress.css" />
-    
-        </Head>
-        <body>
-          <Main />
-          <NextScript />
-        </body>
-      </Html>
-    );
-  }
+        {/* Twitter Card meta tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="My Portfolio Web" />
+        <meta name="twitter:description" content="Check out my awesome portfolio web!" />
+        <meta name="twitter:image" content="https://example.com/my-portfolio-image.jpg" />
+        <meta name="twitter:url" content="https://example.com/my-portfolio-web" />
+
+        {/* Facebook meta tags */}
+        <meta property="fb:app_id" content="{your-facebook-app-id}" />
+      </Head>
+      {/* Rest of your page content */}
+    </div>
+  );
 }
-
-export default MyDocument;
