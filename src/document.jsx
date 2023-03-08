@@ -6,37 +6,37 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="public/logo.jpg" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Devansh"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@TreoDiscordBot" />
           <meta name="twitter:creator" content="@TreoDiscordBot" />
-          <meta property="og:url" content="https://treoweb.vercel.app" />
+          <meta property="og:url" content="https://dev-ansh.tech" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Treo" />
+          <meta property="og:title" content="Devansh" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="public/logo.png"
             type="image/x-icon"
           />
           <meta
             property="og:description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Devansh."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="public/logo.jpg" />
           <meta property="og:image:alt" content="Treo" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Treo"
+            content="Devansh"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="public/logo.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
