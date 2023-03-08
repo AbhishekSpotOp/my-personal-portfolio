@@ -45,7 +45,7 @@ class MyDocument extends Document {
             href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css"
             rel="stylesheet"
           />
-          <link rel="stylesheet" href="/css/nprogress.css" />
+          <link rel="stylesheet" href="index.css" />
     
         </Head>
         <body>
