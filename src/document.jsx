@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-function document() {
+function MyPage() {
   return (
     <div>
       <Head>
