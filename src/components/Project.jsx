@@ -3,16 +3,16 @@ import React from "react";
 const Project = () => {
   const projectsData = [
     {
-      name: `Treo Discord Bot`,
-      description: `Treo is a open source multipurpose discord bot with amazing features like moderation, utility, giveaway, fun, nsfw, ticket etc.`,
-      image: `https://i.imgur.com/LIK2mMn.png`,
-      link: `https://github.com/devanshyadav2010/`,
+      name: `Apexa Discord Bot`,
+      description: `Apexa is a multipurpose discord bot with amazing features like moderation, utility, welcomer, fun, ticket etc.`,
+      image: `https://media.discordapp.net/attachments/1083302324023349288/1092102540608409710/20230402_203440.jpg`,
+      link: `https://dsc.gg/apexa-support`,
     },
     {
       name: `Treo Website`,
-      description: `It is cool website of my bot TREO and it is built in next.js language.`,
-      image: `https://i.imgur.com/LwpYd4N.png`,
-      link: `https://github.com/devanshyadav2010/treo-bot-website`,
+      description: `It is cool website of my bot Apexa and it is built in next.js language.`,
+      image: `https://media.discordapp.net/attachments/1017389436541075520/1105883105144877147/image0.png`,
+      link: `https://apexa-site.netlify.app`,
     },
    
   ];
