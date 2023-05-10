@@ -27,7 +27,7 @@ const Navbar = () => {
               alt="Logo"
             />
             <div className="ml-4 font-medium text-gray-800 text-lg">
-              <a href="/">Devansh</a>
+              <a href="/">Abhishek</a>
             </div>
           </div>
           <div className="hidden md:block">
