@@ -9,7 +9,7 @@ const Project = () => {
       link: `https://dsc.gg/apexa-support`,
     },
     {
-      name: `Treo Website`,
+      name: `Apexa Website`,
       description: `It is cool website of my bot Apexa and it is built in next.js language.`,
       image: `https://media.discordapp.net/attachments/1017389436541075520/1105883105144877147/image0.png`,
       link: `https://apexa-site.netlify.app`,
